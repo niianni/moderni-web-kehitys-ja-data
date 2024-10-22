@@ -1,0 +1,13 @@
+body {
+    background-color: #0099EE;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div {
+    background-color: #00E6B4;
+    color: #324B4D;
+}
+
+.tesla {
+    background-color: #00D2DE;
+}

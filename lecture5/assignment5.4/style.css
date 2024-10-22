@@ -1,0 +1,31 @@
+.greenbox, 
+.redbox {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.firstRow {
+    display: flex;
+    justify-content: space-around;
+}
+
+.greenbox {
+    background-color: greenyellow;
+    width: 150px;
+    height: 280px;
+}
+
+.secondRow {
+    display: flex;
+}
+
+.redbox {
+    background-color: red;
+    height: 100px;
+    flex-basis: 160px;
+}
+
+#second {
+    flex-grow: 1;
+}
+
